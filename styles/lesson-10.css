@@ -1,7 +1,7 @@
 .lesson-10 {
   max-width: 300px;
   --color-success: green;
-  --color-error: red;
+  --color-error: tomato;
 }
 
 .lesson-10 form {
